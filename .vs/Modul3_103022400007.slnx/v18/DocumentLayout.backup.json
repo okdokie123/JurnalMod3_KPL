@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\KPL\\Modul3_103022400007\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88EBDAF7-4542-4EA4-88E1-E26EC01B56DB}|Modul3_103022400007\\Modul3_103022400007.csproj|c:\\users\\asus\\documents\\kpl\\modul3_103022400007\\modul3_103022400007\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBDAF7-4542-4EA4-88E1-E26EC01B56DB}|Modul3_103022400007\\Modul3_103022400007.csproj|solutionrelative:modul3_103022400007\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{709A368E-A7B4-6F59-FD34-E5ED4F81DA24}|Modul3_103022400007\\Modul3_103022400007.csproj|c:\\users\\asus\\documents\\kpl\\modul3_103022400007\\modul3_103022400007\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709A368E-A7B4-6F59-FD34-E5ED4F81DA24}|Modul3_103022400007\\Modul3_103022400007.csproj|solutionrelative:modul3_103022400007\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88EBDAF7-4542-4EA4-88E1-E26EC01B56DB}|Modul3_103022400007\\Modul3_103022400007.csproj|c:\\users\\asus\\documents\\kpl\\modul3_103022400007\\modul3_103022400007\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{88EBDAF7-4542-4EA4-88E1-E26EC01B56DB}|Modul3_103022400007\\Modul3_103022400007.csproj|C:\\Users\\Asus\\Documents\\KPL\\Modul3_103022400007\\modul3_103022400007\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{88EBDAF7-4542-4EA4-88E1-E26EC01B56DB}|Modul3_103022400007\\Modul3_103022400007.csproj|solutionrelative:modul3_103022400007\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Modul3_103022400007\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-14T07:05:32.731Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
